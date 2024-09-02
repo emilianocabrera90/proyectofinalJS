@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Cerveza",
+        "price": 2000,
+        "stock": 20,
+        "image": "assets/images/cerveza.jpeg"
+    },
+    {
+        "name": "Papas Fritas",
+        "price": 3500,
+        "stock": 15,
+        "image": "assets/images/papas_fritas.jpeg"
+    },
+    {
+        "name": "Vino Malbec",
+        "price": 5000,
+        "stock": 10,
+        "image": "assets/images/vino_malbec.jpeg"
+    },
+    {
+        "name": "Agua Mineral",
+        "price": 1500,
+        "stock": 50,
+        "image": "assets/images/agua_mineral.jpeg"
+    },
+    {
+        "name": "Leche para Bebes",
+        "price": 2500,
+        "stock": 25,
+        "image": "assets/images/leche_bebes.jpeg"
+    }
+]
