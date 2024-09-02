@@ -87,6 +87,7 @@ function emptyCart() {
         cart = [];
         saveCart();
         updateCart();
+        displayMessage("Carrito completamente vaciado.", 'success');
     } catch (error) {
         console.error('Error al vaciar el carrito:', error);
         displayMessage('Error al vaciar el carrito. Inténtalo de nuevo más tarde.', 'error');
